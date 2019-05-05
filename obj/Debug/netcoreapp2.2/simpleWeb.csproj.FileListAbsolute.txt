@@ -1,0 +1,14 @@
+C:\Users\Farooq\RND\simpleWeb\bin\Debug\netcoreapp2.2\simpleWeb.deps.json
+C:\Users\Farooq\RND\simpleWeb\bin\Debug\netcoreapp2.2\simpleWeb.runtimeconfig.json
+C:\Users\Farooq\RND\simpleWeb\bin\Debug\netcoreapp2.2\simpleWeb.runtimeconfig.dev.json
+c:\Users\Farooq\RND\simpleWeb\bin\Debug\netcoreapp2.2\simpleWeb.dll
+c:\Users\Farooq\RND\simpleWeb\bin\Debug\netcoreapp2.2\simpleWeb.pdb
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.csprojAssemblyReference.cache
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.csproj.CoreCompileInputs.cache
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.RazorAssemblyInfo.cache
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.RazorAssemblyInfo.cs
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.AssemblyInfoInputs.cache
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.AssemblyInfo.cs
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.RazorTargetAssemblyInfo.cache
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.dll
+c:\Users\Farooq\RND\simpleWeb\obj\Debug\netcoreapp2.2\simpleWeb.pdb
